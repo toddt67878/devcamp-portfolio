@@ -1,19 +1,11 @@
-cclass PagesController < ApplicationController
-def home
-  @posts = Blog.all
-  @skills = Skill.all
-end
-
-def about
-end
-
-def contact
-end
-end
-
-  def contact
+class PagesController < ApplicationController
+  def home
+    @posts = Blog.all
+    @skills = Skill.all
   end
-end
+
+  def about
+  end
 
   def contact
   end
