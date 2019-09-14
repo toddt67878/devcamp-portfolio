@@ -23,7 +23,7 @@ end
 alert('Hi there')
 ```
 
-DevCamp Portfolio Application For D. Todd Traylorg
+DevCamp Portfolio Application For D. Todd Traylor
 
 * System dependencies
 
