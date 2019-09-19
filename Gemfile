@@ -54,4 +54,4 @@ gem 'minitest-reporters', '~> 1.3', '>= 1.3.8'
 gem 'poltergeist', '~> 1.18', '>= 1.18.1'
 gem 'slim-rails', '~> 3.2'
 gem 'term-ansicolor', '~> 1.7', '>= 1.7.1'
-
+gem 'traylor_view_tool', git: 'https://github.com/toddt67878/traylor_view_tool'
